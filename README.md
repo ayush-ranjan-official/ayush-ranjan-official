@@ -1,4 +1,4 @@
-<img align="center" alt="banner" height="400" width="1000" src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/power-maps/future-of-money-part-2/header.gif">
+<img align="center" alt="banner" height="200" width="1000" src="https://foreignpolicy.com/wp-content/themes/foreign-policy-2017/assets/src/images/power-maps/future-of-money-part-2/header.gif">
 <h1 align="center">Hi 👋, I'm Ayush Ranjan</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
