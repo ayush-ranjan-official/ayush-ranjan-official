@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://medium.com/@ayushranjanofficial27" target="blank"><img src="https://img.shields.io/twitter/follow/Medium?logo=twitter&style=for-the-badge" alt="ayur_27" /></a> </p>
 
-- 🌱 I’m currently learning **Ethereum Development**
+- 🌱 **Ethereum⛓️| Starknet🛸 | AI Agentic👽**
 
 - 📫 How to reach me **ayushranjanofficial27@gmail.com**
 
